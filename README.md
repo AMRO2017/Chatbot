@@ -16,6 +16,7 @@
 ##
 ## new Notes:
 - Only index.html file has been modified to include the embedded script for Watson Assistant.
+- Chatbot dialog is written in **Arabic** language only.
 - The Chatbot will provide customer services and general information about the company.
 ## old Notes:
 - All files should be placed in the same directory including the images.
